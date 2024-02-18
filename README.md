@@ -1,5 +1,11 @@
 # Julia
 Cheatsheet, snippets, resources for Julia.
+
+## Cheatsheets
+ - [Fondamentaux](julia.ipynb)
+ - [Opérateurs](operators.ipynb)
+ - [Chaines de caractères](strings.ipynb)
+
 ## Environnement par défaut
 Créer une fichier `~/.julia/config/startup.jl`
 
